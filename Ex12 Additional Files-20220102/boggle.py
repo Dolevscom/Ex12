@@ -1,3 +1,1 @@
-import boggle_board_randomizer
 
-print(boggle_board_randomizer.randomize_board())
