@@ -110,7 +110,7 @@ def paths_for_every_coord(n, board, words):
 def find_length_n_paths(n, board, words):
     return paths_for_every_coord(n, board, words)
 
-d
+
 def wrd_vr_al_pos_pths(board, n, words, current_path, path_list, ):
     current_word = ""
     len_of_word = len(current_word)
